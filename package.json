@@ -1,1 +1,8 @@
-{"name":"neon-steps","private":true,"type":"module","scripts":{"test":"node --test motion.test.js"}}
+{
+  "name": "neon-steps",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test *.test.js"
+  }
+}
