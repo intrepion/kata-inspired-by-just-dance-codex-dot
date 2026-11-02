@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "workflowCommit": "eee5aa202996107650d0ea6beee3f65fbce838ed",
+  "sourceCommit": "14b5f8b6c30e05c1e7ff365977fde7bf70663430",
+  "runId": "41447299119",
+  "url": "http://127.0.0.1:4294/",
+  "inputs": {
+    "index.html": "bd22a04d0bda7f1b24f7fd131c0fd274a01efa7903fe332046fedfcd157bdc37",
+    "style.css": "482bffab8b11a265be992f24187b40e7f4995ce87a2e6cb67945f635106b8b1f",
+    "game.js": "0a84d53370f22472bff22bc55fb6636164354cbc2c74d5b2dd7a4a219be8cadc",
+    "camera-controller.js": "331f2c6ce88f4138343aa3ca265feb9ba7f53a579f17a902710ef2f5b07ecf3b",
+    "camera.js": "227ccbd17ffe541596a8bebffb0206e045d57ea99202d8e83a0f985bb482aee5",
+    "motion.js": "6abf32bf0650c129c24623ed813fb2429a7f9fed492b80b9790deed39703d185"
+  },
+  "browser": "153.0.8010.12",
+  "viewport": {
+    "width": 1280,
+    "height": 1000
+  },
+  "screenshots": [
+    "steps-01.png",
+    "steps-02.png"
+  ]
+}

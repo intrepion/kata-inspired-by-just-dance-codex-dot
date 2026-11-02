@@ -1,6 +1,53 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "gameId": "kata-inspired-by-just-dance-codex-dot",
   "playUrl": "https://intrepion.github.io/kata-inspired-by-just-dance-codex-dot/",
-  "screenshots": []
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/ci-20261102-01.jpg",
+      "sha256": "56e8e0aec95263b4e9c5ca435a96ec04d37e0eaf806e8e2155415b6d99f81bb7",
+      "alt": "Neon Steps gameplay, view 1",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-01.png",
+        "sourceSha256": "c1503775726018c5872a69b3cb9c04b183932a31724828c4a8f273f067950490",
+        "captureCommit": "14b5f8b6c30e05c1e7ff365977fde7bf70663430",
+        "workflowRunId": "41447299119",
+        "inputHashes": {
+          "index.html": "bd22a04d0bda7f1b24f7fd131c0fd274a01efa7903fe332046fedfcd157bdc37",
+          "style.css": "482bffab8b11a265be992f24187b40e7f4995ce87a2e6cb67945f635106b8b1f",
+          "game.js": "0a84d53370f22472bff22bc55fb6636164354cbc2c74d5b2dd7a4a219be8cadc",
+          "camera-controller.js": "331f2c6ce88f4138343aa3ca265feb9ba7f53a579f17a902710ef2f5b07ecf3b",
+          "camera.js": "227ccbd17ffe541596a8bebffb0206e045d57ea99202d8e83a0f985bb482aee5",
+          "motion.js": "6abf32bf0650c129c24623ed813fb2429a7f9fed492b80b9790deed39703d185"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "083cd5c7a6436fc1bf5d4d3d1fe81352ea5d408e602b8329b1ad0c67cbc3d96f"
+      }
+    },
+    {
+      "path": "arcade/screenshots/ci-20261102-02.jpg",
+      "sha256": "e8afdad6572f3bebede6575c6034ffe7860377efed02b8ccdeea47016a17a194",
+      "alt": "Neon Steps gameplay, view 2",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-02.png",
+        "sourceSha256": "41372906a08f7fe499b002c38cacbe5095f82719966459508d9f4ecfd20a78be",
+        "captureCommit": "14b5f8b6c30e05c1e7ff365977fde7bf70663430",
+        "workflowRunId": "41447299119",
+        "inputHashes": {
+          "index.html": "bd22a04d0bda7f1b24f7fd131c0fd274a01efa7903fe332046fedfcd157bdc37",
+          "style.css": "482bffab8b11a265be992f24187b40e7f4995ce87a2e6cb67945f635106b8b1f",
+          "game.js": "0a84d53370f22472bff22bc55fb6636164354cbc2c74d5b2dd7a4a219be8cadc",
+          "camera-controller.js": "331f2c6ce88f4138343aa3ca265feb9ba7f53a579f17a902710ef2f5b07ecf3b",
+          "camera.js": "227ccbd17ffe541596a8bebffb0206e045d57ea99202d8e83a0f985bb482aee5",
+          "motion.js": "6abf32bf0650c129c24623ed813fb2429a7f9fed492b80b9790deed39703d185"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "083cd5c7a6436fc1bf5d4d3d1fe81352ea5d408e602b8329b1ad0c67cbc3d96f"
+      }
+    }
+  ]
 }
