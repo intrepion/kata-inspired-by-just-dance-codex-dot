@@ -35,3 +35,7 @@ MIT; see [LICENSE](LICENSE).
 Served on `http://127.0.0.1:8765/`: launch, a timed left-arrow hit (60 points and GOOD feedback), pause/resume, and track completion with the score retained were observed in a browser. JavaScript syntax passed `node --check`. The prepared Arcade catalog passed its three integrity tests. The motion classifier and permission grant, denial, exception and unavailable paths pass automated tests using simulated data (`npm test`). The camera direction classifier, loss/reset, denied/unavailable access and rear-camera rejection are also covered with simulated data. The 390 × 844 browser layout was visually checked, and the updated track reached its results screen; the browser displayed a fallback when no usable sensor data arrived. Physical-device motion sensing, native permission prompts, touch input, and audio output remain unverified. A complete high-scoring run has not been independently verified.
 
 On 2026-10-31, a local Chrome test with an authorized FaceTime HD webcam loaded the model, detected a real hand, scored 160 points without keyboard input, and displayed tracking-loss feedback. The Stop camera control ended the stream. This was a brief desktop trial; directional accuracy, repeated play, and mobile-device performance remain unverified.
+
+## Arcade metadata
+
+See [docs/arcade-metadata.md](docs/arcade-metadata.md) for the game-owned manifest and screenshot provenance.
